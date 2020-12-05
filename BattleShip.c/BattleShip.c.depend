@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1607184100 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\init.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"valeur.h"
+
+1607184427 c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\valeur.h
+
+1607185127 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"valeur.h"
+
+1607098569 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"valeur.h"
+
+1607110046 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\orientbat.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"valeur.h"
+
+1607178689 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\posebat.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"valeur.h"
+
+1607182443 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\insertbat.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"valeur.h"
+
+1607185301 source:c:\users\laboi\desktop\ludus académie\annee_2020-2021\algorithme\exercice_tp\btlle_navale\battleship_\battleship.c\attaque.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"valeur.h"
+
